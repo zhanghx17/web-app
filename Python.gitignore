@@ -108,3 +108,12 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# My configurations:
+db.ini
+deploy_key_rsa
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
